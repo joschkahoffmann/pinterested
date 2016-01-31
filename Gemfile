@@ -14,7 +14,7 @@ gem 'jquery-rails'
 gem 'jquery-turbolinks', '~> 2.1'
 gem 'devise', '~> 3.5.3'
 gem 'paperclip', '~>4.3', '>=4.3.2'
-gem 'masonry-rails', '~> 0.2.4'
+gem 'masonry-rails'#, '~> 0.2.4'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc

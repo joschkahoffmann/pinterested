@@ -13,6 +13,9 @@
 //= require jquery
 //= require jquery.turbolinks
 //= require masonry/jquery.masonry
+//= require masonry/box-maker
+//= require masonry/jquery.loremimages.min
+//= require isotope/jquery.isotope
 //= require jquery_ujs
 //= require turbolinks
 //= require bootstrap-sprockets

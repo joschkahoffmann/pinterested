@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   resources :pins
-  root 'home#index'
+  root 'pins#index'
   devise_for :users
   get 'home/about'
 end

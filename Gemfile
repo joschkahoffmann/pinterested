@@ -16,6 +16,8 @@ gem 'devise', '~> 3.5.3'
 gem 'paperclip', '~>4.3', '>=4.3.2'
 gem 'masonry-rails'#, '~> 0.2.4'
 gem 'turbolinks'
+gem 'will_paginate', '~> 3.1'
+gem 'will_paginate-bootstrap', '~> 1.0'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
